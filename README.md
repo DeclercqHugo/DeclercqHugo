@@ -4,24 +4,29 @@ Right now I'm trying to finish the last mandatory projects from school 19 💯.
 🌱 I’m currently learning C and C++.  
 🤔 I'd like to learn Unity and Python 🐍.  
 ⚡ Fun fact: I've been swimming for over 15 years 🏊‍♂️.  
-📫 How to reach me:  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How to reach me  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-declercq-2a36981b8-p-singh/)](https://www.linkedin.com/in/hugo-declercq-2a36981b8/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hugo_declercq_?label=Follow)](https://twitter.com/intent/follow?screen_name=hugo_declercq_)
-![GitHub followers](https://img.shields.io/github/followers/declercqhugo?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/declercqhugo?label=Follow&style=social)  
 Many of my projects are private projects from the shcool 19 so that other students can't copy/paste them 👌.  
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me   
 
 ```C
 int main ()
 {
-    string Name[] = "Declercq";
-    string Firstname[] = "Hugo";
+    char Name[] = "Declercq";
+    char Firstname[] = "Hugo";
     int Age = 23;
+    char *Languages[] =   {
+                            "French",
+                            "English"
+                            };
+    char All_
 
-    string
-
+    
+    
 }
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=declercqhugo&show_icons=true&theme=dracula)  
