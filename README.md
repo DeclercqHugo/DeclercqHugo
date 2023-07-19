@@ -9,7 +9,7 @@ Right now I'm trying to finish the last mandatory projects from school 19 💯.
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hugo_declercq_)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclercqHugo&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeclercqHugo&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=declercqhugo&langs_count=8)
 <!--
 **DeclercqHugo/DeclercqHugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
