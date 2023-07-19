@@ -1,7 +1,7 @@
 ### Hi, I'm Declercq hugo 👋 
 I'm a young developer 🧑🏻‍💻 with a bachelor's degree in business computing and I'm currently training at school 19 (same school as 42 in Paris) but in **Belgium** 🇧🇪. 
 Right now I'm trying to finish the last mandatory projects from school 19 💯.
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 <!--
 **DeclercqHugo/DeclercqHugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
