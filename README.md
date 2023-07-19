@@ -1,4 +1,4 @@
-# Hi, I'm Declercq hugo 👋 
+# Hi, I'm Declercq Hugo 👋 
 I'm a young developer 🧑🏻‍💻 with a bachelor's degree in business computing and I'm currently training at school 19 (same school as 42 in Paris) but in **Belgium** 🇧🇪.  
 Right now I'm trying to finish the last mandatory projects from school 19 💯.  
 🌱 I’m currently learning C and C++.  
