@@ -10,7 +10,7 @@ Right now I'm trying to finish the last mandatory projects from school 19 💯.
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=hugo_declercq_)
 [![Gmail Badge](https://img.shields.io/badge/-declercq.hugo.pro@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:declercq.hugo.pro@hotmail.com)](mailto:declercq.hugo.pro@hotmail.com)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/nonamejustplay?style=for-the-badge&logo=discord&logoColor=white)  
+![Discord](https://img.shields.io/badge/-nonamejustplay?style=for-the-badge&logo=discord&logoColor=white)  
 Many of my projects are private projects from the shcool 19 so that other students can't copy/paste them 👌.  
 ## <img src="https://media.giphy.com/media/OyqdpGGe0KYViBnuBH/giphy.gif" width="50"> A little more about me   
 
