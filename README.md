@@ -8,7 +8,7 @@ Right now I'm trying to finish the last mandatory projects from school 19 💯.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-declercq-2a36981b8/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hugo_declercq_)
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclercqHugo)](https://github.com/DeclercqHugo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclercqHugo)]
 <!--
 **DeclercqHugo/DeclercqHugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
