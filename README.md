@@ -7,6 +7,7 @@ Right now I'm trying to finish the last mandatory projects from school 19 💯.
 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-declercq-2a36981b8/)
 [![Twitter](https://img.shields.io/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hugo_declercq_)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hugo_declercq_?label=Follow)](https://twitter.com/intent/follow?screen_name=hugo_declercq_)
 Many of my projects are private projects from the shcool 19 so that other students can't copy/paste them 👌.  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=declercqhugo&show_icons=true&theme=dracula)  
