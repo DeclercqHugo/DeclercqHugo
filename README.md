@@ -1,8 +1,14 @@
 ### Hi, I'm Declercq hugo 👋 
 I'm a young developer 🧑🏻‍💻 with a bachelor's degree in business computing and I'm currently training at school 19 (same school as 42 in Paris) but in **Belgium** 🇧🇪. 
+
+
 Right now I'm trying to finish the last mandatory projects from school 19 💯. 
+
+
 🌱 I’m currently learning C and C++.
 🤔 I'd like to learn Unity and Python.
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclercqHugo&show_icons=true&theme=transparent)
 ![](https://github.com/DeclercqHugo/DeclercqHugo/blob/master/generated/languages.svg)
 <!--
