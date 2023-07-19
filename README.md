@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Declercq hugo 👋 
+I'm a young developer 🧑🏻‍💻 with a bachelor's degree in business computing and I'm currently training at school 19 :19: (same school as 42 in Paris) but in Belgium. 
 <!--
 **DeclercqHugo/DeclercqHugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
