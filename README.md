@@ -2,7 +2,7 @@
 I'm a young developer 🧑🏻‍💻 with a bachelor's degree in business computing and I'm currently training at school 19 (same school as 42 in Paris) but in **Belgium** 🇧🇪.  
 Right now I'm trying to finish the last mandatory projects from school 19 💯.  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A01A&width=435&lines=Always+learning+new+things+;I%E2%80%99m+currently+learning+C+and+C%2B%2B;I'd+like+to+learn+Unity+and+Python)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A01A&width=435&lines=Always+learning+new+things+;I%E2%80%99m+currently+learning+C+and+C%2B%2B;I'd+like+to+learn+Unity+and+Python)
 
 ### <img src="https://media.giphy.com/media/a6BfkYCVOZD5Ss30cX/giphy.gif" width="50"> How to reach me  
 
