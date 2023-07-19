@@ -31,3 +31,10 @@ int main ()
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=declercqhugo&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=declercqhugo&langs_count=8)
 
+
+<a href="https://github.com/declercqhugo?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/declercqhugo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/declercqhugo?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/declercqhugo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/declercqhugo/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/declercqhugo-profile-views"/></a>
