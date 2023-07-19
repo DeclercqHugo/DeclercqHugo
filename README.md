@@ -10,8 +10,7 @@ Right now I'm trying to finish the last mandatory projects from school 19 💯.
 ![GitHub followers](https://img.shields.io/github/followers/declercqhugo?label=Follow&style=social)  
 Many of my projects are private projects from the shcool 19 so that other students can't copy/paste them 👌.  
 
-
-### <img src="https://giphy.com/stickers/pc-ordinateur-juliegoudier-rwZYRG49F6pKGhlDzt" width="50"> A little more about me   
+### <img src="https://media.giphy.com/media/pc-ordinateur-juliegoudier-rwZYRG49F6pKGhlDzt" width="50"> A little more about me   
 
 ```C
 int main ()
