@@ -3,7 +3,7 @@ I'm a young developer 🧑🏻‍💻 with a bachelor's degree in business compu
 Right now I'm trying to finish the last mandatory projects from school 19 💯.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclercqHugo)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclercqHugo&show_icons=true&theme=transparent)
 <!--
 **DeclercqHugo/DeclercqHugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
