@@ -3,7 +3,8 @@ I'm a young developer 🧑🏻‍💻 with a bachelor's degree in business compu
 Right now I'm trying to finish the last mandatory projects from school 19 💯.  
 🌱 I’m currently learning C and C++.  
 🤔 I'd like to learn Unity and Python.  
-📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-declercq-2a36981b8/).
+📫 How to reach me:  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-declercq-2a36981b8/).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeclercqHugo&show_icons=true&theme=transparent)
 <!--
