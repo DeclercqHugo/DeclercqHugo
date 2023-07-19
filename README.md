@@ -9,6 +9,7 @@ Right now I'm trying to finish the last mandatory projects from school 19 💯.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-declercq-2a36981b8-p-singh/)](https://www.linkedin.com/in/hugo-declercq-2a36981b8/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=hugo_declercq_)
 [![Gmail Badge](https://img.shields.io/badge/-declercq.hugo.pro@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:declercq.hugo.pro@hotmail.com)](mailto:declercq.hugo.pro@hotmail.com)
+![Outlook](https://img.shields.io/badge/-declercq.hugo.pro@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitelink=mailto:declercq.hugo.pro@hotmail.com)](mailto:declercq.hugo.pro@hotmail.com)
 ![Slack](https://img.shields.io/badge/declercq.hugo.pro@hotmail.com-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/-nonamejustplay-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  
 Many of my projects are private projects from the shcool 19 so that other students can't copy/paste them 👌.  
