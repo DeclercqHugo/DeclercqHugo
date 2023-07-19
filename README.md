@@ -4,13 +4,13 @@ Right now I'm trying to finish the last mandatory projects from school 19 💯.
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A01A&width=435&lines=Always+learning+new+things+;I%E2%80%99m+currently+learning+C+and+C%2B%2B;I'd+like+to+learn+Unity+and+Python)
 
-# <img src="https://media.giphy.com/media/a6BfkYCVOZD5Ss30cX/giphy.gif" width="50"> How to reach me  
+## <img src="https://media.giphy.com/media/a6BfkYCVOZD5Ss30cX/giphy.gif" width="50"> How to reach me  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-declercq-2a36981b8-p-singh/)](https://www.linkedin.com/in/hugo-declercq-2a36981b8/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hugo_declercq_?label=Follow)](https://twitter.com/intent/follow?screen_name=hugo_declercq_)  
 
 Many of my projects are private projects from the shcool 19 so that other students can't copy/paste them 👌.  
-# <img src="https://media.giphy.com/media/OyqdpGGe0KYViBnuBH/giphy.gif" width="50"> A little more about me   
+## <img src="https://media.giphy.com/media/OyqdpGGe0KYViBnuBH/giphy.gif" width="50"> A little more about me   
 
 ```C
 int main ()
