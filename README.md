@@ -11,7 +11,7 @@ Right now I'm trying to finish the last mandatory projects from school 19 💯.
 Many of my projects are private projects from the shcool 19 so that other students can't copy/paste them 👌.  
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me   
+### <img src="https://giphy.com/stickers/pc-ordinateur-juliegoudier-rwZYRG49F6pKGhlDzt" width="50"> A little more about me   
 
 ```C
 int main ()
@@ -23,7 +23,7 @@ int main ()
                             "French",
                             "English"
                             };
-    char All_
+    char 
 
     
     
@@ -31,17 +31,4 @@ int main ()
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=declercqhugo&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=declercqhugo&langs_count=8)
-<!--
-**DeclercqHugo/DeclercqHugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
