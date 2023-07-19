@@ -8,7 +8,7 @@ Right now I'm trying to finish the last mandatory projects from school 19 💯.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-declercq-2a36981b8-p-singh/)](https://www.linkedin.com/in/hugo-declercq-2a36981b8/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hugo_declercq_?label=Follow&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=hugo_declercq_)
-[![Gmail Badge](https://img.shields.io/badge/-declercq.hugo.pro@hotmail.com-c14438?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:declercq.hugo.pro@hotmail.com)](mailto:declercq.hugo.pro@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-declercq.hugo.pro@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:declercq.hugo.pro@hotmail.com)](mailto:declercq.hugo.pro@hotmail.com)
 
 Many of my projects are private projects from the shcool 19 so that other students can't copy/paste them 👌.  
 ## <img src="https://media.giphy.com/media/OyqdpGGe0KYViBnuBH/giphy.gif" width="50"> A little more about me   
