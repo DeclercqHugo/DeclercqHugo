@@ -20,14 +20,16 @@ int main ()
     char Name[] = "Declercq";
     char Firstname[] = "Hugo";
     int Age = 23;
+    char Country[] = "Belgium";
     char *Languages[] =   {
                             "French",
                             "English"
                             };
-    char 
+    char *Games[] = {
+                        "Dofus",
+                        "League of legends"
+                        };
 
-    
-    
 }
 ```
 ## <img src="https://media.giphy.com/media/OyqdpGGe0KYViBnuBH/giphy.gif" width="50"> Technologies
@@ -45,6 +47,9 @@ int main ()
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
 <a href="https://github.com/declercqhugo?tab=repositories&sort=stargazers">
