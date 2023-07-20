@@ -53,6 +53,77 @@ int main ()
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C179%20hrs%2013%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1453-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 182.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 96 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 23 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                596 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+🌆 Daytime                1795 commits        █████████░░░░░░░░░░░░░░░░   37.84 % 
+🌃 Evening                1512 commits        ████████░░░░░░░░░░░░░░░░░   31.87 % 
+🌙 Night                  841 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   557 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Tuesday                  585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Wednesday                804 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Thursday                 591 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Friday                   533 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Saturday                 672 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Sunday                   1002 commits        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Belgium
+
+💬 Programming Languages: 
+JSON                     31 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+WebStorm                 31 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      31 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               36 repos            ████████████░░░░░░░░░░░░░   47.37 % 
+Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+```
+
+
+
+
+ Last Updated on 20/07/2023 00:28:19 UTC
+<!--END_SECTION:waka-->
+
 <a href="https://github.com/declercqhugo?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/declercqhugo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/declercqhugo?tab=followers">
