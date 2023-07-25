@@ -1,5 +1,4 @@
 <img src="image/github.JPG">
-# Hi, I'm Declercq Hugo 👋  
 I'm a young developer 🧑🏻‍💻 with a bachelor's degree in business computing and I'm currently training at school 19 (same school as 42 in Paris) but in **Belgium** 🇧🇪.  
 Right now I'm trying to finish the last mandatory projects from school 19 💯.  
 
@@ -62,5 +61,3 @@ int main ()
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/declercqhugo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/declercqhugo?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/declercqhugo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/declercqhugo/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/declercqhugo-profile-views"/></a>
